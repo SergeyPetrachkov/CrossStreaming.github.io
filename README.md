@@ -1,3 +1,4 @@
 # CrossStreaming.github.io
 
-(EULA)[https://github.com/SergeyPetrachkov/CrossStreaming/files/15402423/EULA.pdf]
+[EULA.pdf](https://github.com/SergeyPetrachkov/CrossStreaming.github.io/files/15402449/EULA.pdf)
+
